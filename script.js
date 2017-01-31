@@ -1,25 +1,3 @@
-// <p>
-//   If you're interested in a date, you can email me at
-//   <a href="mailto:EMAIL_ADDRESS" target="_blank">EMAIL_ADDRESS</a>
-//   or give me a call at
-//   <a href="tel:PHONE_NUMBER" target="_blank">PHONE_NUMBER</a>.
-// </p>
-// firstNameInput.onkeyup = function () {
-//   document.getElementById('displayfirstName').innerHTML = 'Hi, my name is ' + firstNameInput.value
-// }
-// lastNameInput.onkeyup = function () {
-//   document.getElementById('displaylastName').innerHTML = lastNameInput.value
-// }
-// describeInput.onkeyup = function () {
-//   document.getElementById('displayyourselfInfo').innerHTML = describeInput.value
-// }
-// emailInput.onkeyup = function () {
-//   document.getElementById('displayemailInfo').innerHTML = 'If you are interested in a date, you can email me at ' + emailInput.value
-// }
-// phoneInput.onkeyup = function () {
-//   document.getElementById('displayphoneInfo').innerHTML = 'or give me a call at ' + phoneInput.value
-// }
-
 var firstNameInput = document.getElementById('FIRST_NAME')
 var lastNameInput = document.getElementById('LAST_NAME')
 var describeInput = document.getElementById('DESCRIBE_YOURSELF_INFO')
